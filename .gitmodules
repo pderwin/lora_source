@@ -1,0 +1,3 @@
+[submodule "connectivity-technology"]
+	path = connectivity-technology
+	url = git@github.com:pderwin/connectivity-technology.git
