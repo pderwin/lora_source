@@ -1,3 +1,21 @@
 [submodule "connectivity-technology"]
 	path = connectivity-technology
 	url = git@github.com:pderwin/connectivity-technology.git
+[submodule "SWSD004"]
+	path = SWSD004
+	url = git@github.com:pderwin/SWSD004.git
+[submodule "SWTL001"]
+	path = SWTL001
+	url = git@github.com:pderwin/SWTL001.git
+[submodule "nrf"]
+	path = nrf
+	url = git@github.com:pderwin/nrf.git
+[submodule "nrfxlib"]
+	path = nrfxlib
+	url = git@github.com:pderwin/nrfxlib.git
+[submodule "wio-wm1110"]
+	path = wio-wm1110
+	url = git@github.com:pderwin/wio-wm1110
+[submodule "zephyr"]
+	path = zephyr
+	url = git@github.com:pderwin/zephyr
