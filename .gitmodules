@@ -17,5 +17,5 @@
 	path = wio-wm1110
 	url = git@github.com:pderwin/wio-wm1110
 [submodule "zephyr"]
-	path = zephyr
+	path = zephyr-3.5.0
 	url = git@github.com:pderwin/zephyr
